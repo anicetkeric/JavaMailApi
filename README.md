@@ -90,8 +90,7 @@ get settings smtp in config.conf file
 	        msg.setContent(multipart);
 	        
 	        
-	        
-	        // sends the e-mail
+	        // send the e-mail
 	        Transport.send(msg);
 	        System.out.println("Mail Session has been created successfully..");
 	    }

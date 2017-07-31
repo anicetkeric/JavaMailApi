@@ -92,7 +92,7 @@ get settings smtp in config.conf file
 	        
 	        // send the e-mail
 	        Transport.send(msg);
-	        System.out.println("Mail Session has been created successfully..");
+	        System.out.println("Mail Session has been created successfully....");
 	    }
 
 ```

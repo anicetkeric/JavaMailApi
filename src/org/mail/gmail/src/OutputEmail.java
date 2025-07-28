@@ -6,7 +6,7 @@ package org.mail.gmail.src;
 
 /**#################################################################
  * @author ANICET ERIC KOUAME
- * @Date: 27 févr. 2017
+ * @Date: 27 fÃ©vr. 2017
  * @Description:
  *OutputEmail
  *#################################################################*/
@@ -26,7 +26,7 @@ public class OutputEmail {
 		  content += "<p>Test email by JavaMail API example.</p>";	        		 
 		  content += "<font color=#0f037d>Best regard.</font>";
 		  
-		  String toEmail="anicetkeric@gmail.com";
+		  String toEmail="bootlabs@gmail.com";
 		
 		  // attachments
 	        String[] attachmentFiles = new String[2];
